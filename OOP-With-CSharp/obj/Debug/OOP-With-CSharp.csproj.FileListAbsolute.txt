@@ -1,0 +1,6 @@
+/Users/mac/work space /OOP-With-CSharp/OOP-With-CSharp/OOP-With-CSharp/bin/Debug/OOP_With_CSharp.exe
+/Users/mac/work space /OOP-With-CSharp/OOP-With-CSharp/OOP-With-CSharp/bin/Debug/OOP_With_CSharp.pdb
+/Users/mac/work space /OOP-With-CSharp/OOP-With-CSharp/OOP-With-CSharp/obj/Debug/OOP-With-CSharp.csproj.AssemblyReference.cache
+/Users/mac/work space /OOP-With-CSharp/OOP-With-CSharp/OOP-With-CSharp/obj/Debug/OOP-With-CSharp.csproj.CoreCompileInputs.cache
+/Users/mac/work space /OOP-With-CSharp/OOP-With-CSharp/OOP-With-CSharp/obj/Debug/OOP_With_CSharp.exe
+/Users/mac/work space /OOP-With-CSharp/OOP-With-CSharp/OOP-With-CSharp/obj/Debug/OOP_With_CSharp.pdb
